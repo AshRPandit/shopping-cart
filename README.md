@@ -28,8 +28,4 @@ State Management with Redux: Efficiently manage application state (e.g., cart co
 - [Bootstrap](https://getbootstrap.com/)
   
 
-## Contact
-
-  LinkedIn: [https://www.linkedin.com/in/rohini-mane-042613335](https://www.linkedin.com/in/rohini-mane-042613335)
   
-  Email: rohinimane7844@gmail.com
